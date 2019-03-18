@@ -6,7 +6,7 @@ CENG140 THE1 Ucoluk Edition Unofficial Tester
 git clone https://github.com/ozansz/ceng140-the1-tester
 cd ceng140-the1-tester
 
-python3 tester.py --json sample_test.json the1executable
+python3 tester.py --json sample_dataset.json the1executable
 ```
 
 ## Examples
